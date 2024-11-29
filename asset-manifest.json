@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/kanban/static/css/main.24173852.css",
+    "main.js": "/kanban/static/js/main.443bd34e.js",
+    "static/js/453.db45b467.chunk.js": "/kanban/static/js/453.db45b467.chunk.js",
+    "static/media/Display.svg": "/kanban/static/media/Display.d8bd8cfc7076d748e857437982b6a4d0.svg",
+    "static/media/threedot.svg": "/kanban/static/media/threedot.8974b0e0334e5348134ccd3e230b55bd.svg",
+    "static/media/down.svg": "/kanban/static/media/down.1a8af7144b15a91bb3acfdf495384411.svg",
+    "index.html": "/kanban/index.html",
+    "static/media/Low.svg": "/kanban/static/media/Low.980e8b34ef0c7b93e5aee1729c560084.svg",
+    "static/media/Medium.svg": "/kanban/static/media/Medium.c6e6b1a6b04ce33603dd032def5bb628.svg",
+    "static/media/High.svg": "/kanban/static/media/High.84439ab839d27b4f1e3ef0778fe60599.svg",
+    "static/media/grey.svg": "/kanban/static/media/grey.0975075be52789f08f7c1776be184389.svg",
+    "static/media/add.svg": "/kanban/static/media/add.8553fd71d5676bbfd182ceebd324da60.svg",
+    "static/media/inprogress.svg": "/kanban/static/media/inprogress.2630b9547a9f613364db5faa12732441.svg",
+    "static/media/Prioritycolour.svg": "/kanban/static/media/Prioritycolour.61cc83eaf9fba3dc2c099c52e1acbc94.svg",
+    "static/media/backlog.svg": "/kanban/static/media/backlog.ca19f3384a6472ef8afd3b69570b6d48.svg",
+    "static/media/todo.svg": "/kanban/static/media/todo.cc86c0d7cbf95ee13431e3cc2e936542.svg",
+    "main.24173852.css.map": "/kanban/static/css/main.24173852.css.map",
+    "main.443bd34e.js.map": "/kanban/static/js/main.443bd34e.js.map",
+    "453.db45b467.chunk.js.map": "/kanban/static/js/453.db45b467.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24173852.css",
+    "static/js/main.443bd34e.js"
+  ]
+}
